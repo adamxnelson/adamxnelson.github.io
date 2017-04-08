@@ -1,0 +1,23 @@
+body {
+
+background-color: white;
+width: 80%;
+min-width: 600%
+padding: 10px 50px;
+font-size: 18px;
+line-height: 1.2em;
+font-weight: normal;
+font-style: normal;
+font-family: Palatino;
+text-align: center;
+min-height: 100%;
+}
+
+main {
+  text-align: center;
+}
+
+#name {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
